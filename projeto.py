@@ -1,4 +1,3 @@
-
 #TAD Posição - Funções Básicas
 
 def cria_posicao(col, lin):
@@ -937,7 +936,6 @@ def orbito(n,modo,jog):
             elif eh_vencedor(t,cria_pedra_preta()):
                 print("DERROTA")
                 return 1
-
 
 
 
